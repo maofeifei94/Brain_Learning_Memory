@@ -1,2 +1,2 @@
-# brain_learning_memory
-the code will be availiable soon
+# Brain_learning_memory
+The code will be availiable soon
